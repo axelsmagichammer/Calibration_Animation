@@ -15,7 +15,7 @@ finsymbol = {'^FTSE': 'FTSE_100', '^FTMC': 'FTSE_250', '^GSPC': 'S&P_500'}  # di
 # see https://finance.yahoo.com for tickers/symbols
 
 # A class to store the data and with some methods for loading the data,
-# calculating daily log retunrs and stats, plotting log returns
+# calculating daily log retunrs and stats, plotting log returns.
 
 
 class DataFrame:
